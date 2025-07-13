@@ -17,4 +17,13 @@ Sample Input 0
 Sample Output 0
 
 ## Example Input/Output
-No sample inputs/outputs found.
+### Sample Input 0
+```
+4
+3
+```
+### Sample Output 0
+```
+1
+1.33333333333
+```
